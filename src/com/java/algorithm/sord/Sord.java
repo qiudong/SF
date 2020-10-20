@@ -1,4 +1,4 @@
-package com.java.sord;
+package com.java.algorithm.sord;
 
 import java.util.Arrays;
 
